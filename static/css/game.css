@@ -1,0 +1,8 @@
+.tables{
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 124px;
+}
+.th_class{
+    height: 38px;
+}
